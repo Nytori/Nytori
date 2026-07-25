@@ -32,7 +32,8 @@ Sometimes it's ideas that only make sense after I build them.
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
 
 - GitHub  
-- Piskel / Aseprite  
+- Piskel / Aseprite
+- Android Studio / Kotlin - Jatpack Compose
 
 ---
 
