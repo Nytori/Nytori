@@ -15,6 +15,9 @@ Sometimes it's ideas that only make sense after I build them.
 ---
 
 ## 🔧 Tools I use
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 - Unity / C#
 - GitHub
 - Figma (UI/UX for prototypes and game interfaces)
