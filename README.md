@@ -40,3 +40,4 @@ Build projects that represent who I am now — not who I was years ago.
 ## Find me 
 Itch.io: https://nytori.itch.io
 Instagram: https://www.instagram.com/_nytori/
+Linkedin: https://www.linkedin.com/in/gabriel-mendes-7a75773a5/
