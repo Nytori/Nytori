@@ -26,7 +26,6 @@ Sometimes it's ideas that only make sense after I build them.
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Software & Tools  
-![n8n](https://img.shields.io/badge/n8n-1F1F1F?style=for-the-badge&logo=n8n&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Reaper](https://img.shields.io/badge/Reaper-000000?style=for-the-badge)
